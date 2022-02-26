@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Marquesse of Argyle, with the rest of the Lords, and others of the Estates of the kingdom of Scotland, concerning the Kings Maiesty, and the treaty; and their desires to the Parliament of England. Also their propositions to Lieutenant-Generall Cromwell, and the army in England. With a discovery of the late designe put in practice by some English and Scots against both kingdoms, and their further advice thereupon.</title>
+            <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75554</idno>
+            <idno type="STC">Wing A3651</idno>
+            <idno type="STC">Thomason E467_29</idno>
+            <idno type="STC">ESTC R205295</idno>
+            <idno type="EEBO-CITATION">99864708</idno>
+            <idno type="PROQUEST">99864708</idno>
+            <idno type="VID">162319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162319)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Marquesse of Argyle, with the rest of the Lords, and others of the Estates of the kingdom of Scotland, concerning the Kings Maiesty, and the treaty; and their desires to the Parliament of England. Also their propositions to Lieutenant-Generall Cromwell, and the army in England. With a discovery of the late designe put in practice by some English and Scots against both kingdoms, and their further advice thereupon.</title>
+                  <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edenburgh by Evan Tyler, and re-printed at London for R.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>16. Octob. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162319:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Marqueſſe of Argyle, WITH The reſt of the Lords, and others of the Eſtates of the Kingdom of Scotland, CONCERNING The Kings Maieſty, And the Treaty; and their Deſires to the <hi>Parliament of England.</hi> Alſo their Propoſitions to Lievtenant-Generall <hi>Cromwell,</hi> and the Army in England. With a diſcovery of the late Deſigne put in practice by ſome Engliſh and Scots againſt both Kingdoms, and their further Advice thereupon.</p>
+            <p>Printed at <hi>Edenburgh</hi> by <hi>Evan Tyler,</hi> and re-printed at <hi>London</hi> for <hi>R. A.</hi> 16. <hi>Octob.</hi> 1648.</p>
+            <pb facs="tcp:162319:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:162319:2"/>
+            <head>A Declaration of the Marqueſſe of <hi>Argyle,</hi> with the reſt of the Lords, and others of the Eſtates of the Kingdom of SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and others of the Commit<g ref="char:EOLhyphen"/>tee of Eſtates of Scotland, according to the great truſt repoſed in them, whereof they are to make account to God and His Majeſtie, the next in<g ref="char:EOLhyphen"/>ſuing Parliament, taking into their deepeſt and moſt ſerious conſidera<g ref="char:EOLhyphen"/>tion the beſt wayes of preſerving the peace of this Kingdome, that all His Majeſties good and dutifull Subjects may enjoy their Religion, Liberties and Lawes, which God in a ſingular and wonderfull pro<g ref="char:EOLhyphen"/>vidence hath vouchſafed them, and of the peace be<g ref="char:EOLhyphen"/>twixt the two Kingdomes ſo unanimouſly and happi<g ref="char:EOLhyphen"/>ly eſtabliſhed in the late Treaty of Peace, and in the Parliaments of both Kingdoms, have faithfully (by all good means) indeavoured to ſettle His Majeſties Kingdomes, which through the unnaturall cruelty of many diſ-affected and revolted perſons, were from a peaceable condition turned into a Stage-of unexam<g ref="char:EOLhyphen"/>pled
+<pb n="2" facs="tcp:162319:3"/> and unexpreſſable miſeries to be looked upon as an horrid and dangerous example by this Kingdome; and by their earneſt ſupplications to His Majeſtie, and their Declarations to the Parliament of England, but eſpecially by their earneſt deſires for eſtabliſhing u<g ref="char:EOLhyphen"/>nity of Religion, and uniformity of Kirk-Govern<g ref="char:EOLhyphen"/>ment, and by the humble offer of their mediation to remove the unhappie differences, and quench the fire of a waſting warre begun betwixt His Majeſtie and his people, wherein His Majeſties Perſon was expoſed to ſo great danger, and ſo many thouſands of his Sub<g ref="char:EOLhyphen"/>jects have already periſhed: But finding to their great griefe the ſucceſſe no way anſwerable to their endea<g ref="char:EOLhyphen"/>vours and expectations, and the trouble of the neigh<g ref="char:EOLhyphen"/>bour Kingdomes, and the dangers of this Kingdome daily riſing to a greater height then they by their care, counſell, and diligence, were able to remead or obirate, they reſolve for this and other cauſes which exerciſe and heavily preſſe the Kingdome at this time, to call a Convention of Eſtates, as the onely meanes which might by common Counſell, conſent, and reſoluti<g ref="char:EOLhyphen"/>on take the beſt courſe for repreſenting yet more ſen<g ref="char:EOLhyphen"/>ſibly theſe manifold evills and dangers, and for over-coming by greater wiſdome the difficulties which were above their power.</p>
+            <p>And for acquitting themſelves in their truſt, and for the ſafety of the Kingdomes, they doe make the ſame publikely knowne to all His Majeſties good Subjects, that being fore-warned of their danger, they may be upon their guards, and prepared againſt Forraign invaſion, and Inteſtine plots and inſurrecti<g ref="char:EOLhyphen"/>ons, and eſpecially that the Noblemen, Commiſſio<g ref="char:EOLhyphen"/>ners
+<pb n="3" facs="tcp:162319:3"/> of Shires and Burroughs, perceiving greater and more apparent neceſſity of the Convention then they could have wiſhed or expected, meet in ſuch celerity, and with ſuch publike affection and diſpoſition of heart, as the preſent condition of affaires doth require and call for at their hands, and as beſeemeth the Lo<g ref="char:EOLhyphen"/>vers of their Religion, King and Countrey, which are in ſo great danger, from Papiſts, Atheiſts, and o<g ref="char:EOLhyphen"/>ther degenerated Countrey-men, who are no leſſe in<g ref="char:EOLhyphen"/>raged againſt this Kingdome even ſince the late Re<g ref="char:EOLhyphen"/>formation of this Kirk, then were their Predeceſſors at the firſt Reformation of Religion, when their nego<g ref="char:EOLhyphen"/>tating was ſo reſtleſſe, and their attempts ſo many and malicious againſt the worke of God in this Land; nor is it without obſervation, that while His Majeſtie and the Parliament of England were about a Treaty, they conſpire, plot, and practiſe againſt the Religi<g ref="char:EOLhyphen"/>on, Rights, and Liberties eſtabliſhed, and a<g ref="char:EOLhyphen"/>gainſt the lives of His Majeſties good Subjects, whereby they doe really manifeſt to the world what the Kings Majeſtie againſt his Declarations, and his Subjects againſt their confidence grounded thereupon, may look for from their malice and power, if they ſhall prevaile in the end.</p>
+            <p>Therefore as we cannot but acknowledge the unſpeakable goodneſſe of God for our preſent deliverance, ſo ſhall we not be want<g ref="char:EOLhyphen"/>ing to make mention of the due honour and worth of thoſe Worthies, that were the in<g ref="char:EOLhyphen"/>ſtruments thereof, and give unto us their bro<g ref="char:EOLhyphen"/>therly
+<pb n="4" facs="tcp:162319:4"/> aſsiſtance at this time, when many of this Kingdome out of feare to preſerve them<g ref="char:EOLhyphen"/>ſelves, their wives and children from deſtru<g ref="char:EOLhyphen"/>ction of the ſword and fire, were fled, the E<g ref="char:EOLhyphen"/>nemy roaring and tryumphing, poſſeſsing themſelves of the houſes, Lands and Eſtates of many Noblemen, Gentlemen and others of the beſt affected in both Kingdomes, to whom nothing was left but families without maintenance, honour without meanes, to ſupport it, and were under all the grievances of warr.</p>
+            <p>Neither can any man of conſcience or ho<g ref="char:EOLhyphen"/>neſty, but remember the Treaty and Decla<g ref="char:EOLhyphen"/>rations of both Kingdomes, which are the ſtrongeſt bonds between man and man, and Nation and Nation, before the world: no man hath true zeale to Religion that will ſhrink for ſuch adverſity and oppoſition as hath been ordinary in the like work, and hath been obvious unto us ſince our firſt un<g ref="char:EOLhyphen"/>dertaking; but hath been alwaies over-come by the aſsiſtance of God: how great was the advantage the common Enemy thought they had attained, when they followed the
+<pb n="5" facs="tcp:162319:4"/> old maxime, DIVIDE &amp; IMPERA; and thereby concluded, that the greateſt favour either Nation could expect, was to be the laſt that ſhould be devoured.</p>
+            <p>As for His Majeſty, we earneſtly intreat the Lord, that he may be furniſhed with wiſ<g ref="char:EOLhyphen"/>dome and councell from above, that he be not involved in new ſnares, to the indange<g ref="char:EOLhyphen"/>ring of himſelfe and theſe Kingdomes; but that his heart may incline to ſuch reſolutions as will contribute for ſetling of Religion and Righteouſneſſe: And we hope that the Par<g ref="char:EOLhyphen"/>liament of England, the Aſſembly of Divines and all ſuch in that Land as unfeignedly fear God, will not be diſcouraged nor ſwerve in the day of temptation, but that all of them in their ſtations, and according to their ſeverall places and callings, may be furniſhed with light and ſtrength for doing of their duty with faithfullneſſe and zeal.</p>
+            <p>And it is the firm reſolution of our ſelves, and the reſt of the Godly party in this King<g ref="char:EOLhyphen"/>dome, (by Gods grace) never to forſake their Brethren of England; but againſt all oppoſition with courage and conſtancy, to
+<pb n="6" facs="tcp:162319:5"/> live and die with them; and as long as there is one drop in our veines, we reſolve never to relinquiſh this work, but to put our confi<g ref="char:EOLhyphen"/>dence in the juſtneſſe of the cauſe, and in the invincible Power of God, truſting he will deliver us and all his people.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>
+               <hi>Ordered that this Declaration be pub<g ref="char:EOLhyphen"/>liſhed at the Market Croſſe at Edenburgh, and other Burghs of this Kingdome, for the information of all His</hi> Majeſties <hi>good Subjects within the ſame.</hi>
+            </p>
+            <closer>
+               <signed>A. P. Cler.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
